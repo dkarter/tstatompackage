@@ -1,3 +1,5 @@
+# This is a work in progress - please do not use until an official release is out
+
 Test coverage package
 =====================
 
